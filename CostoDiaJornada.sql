@@ -1,0 +1,14 @@
+INSERT INTO `sist_reserva_db`.`costodiajornada` (`dia`, `hora_inicio_jornada`, `hora_fin_jornada`, `jornada`, `costo`) VALUES ('Lunes', '00:00:00', '11:59:59', 'Mañana', '20000');
+INSERT INTO `sist_reserva_db`.`costodiajornada` (`dia`, `hora_inicio_jornada`, `hora_fin_jornada`, `jornada`, `costo`) VALUES ('Lunes', '12:00:00', '23:59:59', 'Tarde', '10000');
+INSERT INTO `sist_reserva_db`.`costodiajornada` (`dia`, `hora_inicio_jornada`, `hora_fin_jornada`, `jornada`, `costo`) VALUES ('Martes', '00:00:00', '11:59:59', 'Mañana', '20000');
+INSERT INTO `sist_reserva_db`.`costodiajornada` (`dia`, `hora_inicio_jornada`, `hora_fin_jornada`, `jornada`, `costo`) VALUES ('Martes', '12:00:00', '23:59:59', 'Tarde', '10000');
+INSERT INTO `sist_reserva_db`.`costodiajornada` (`dia`, `hora_inicio_jornada`, `hora_fin_jornada`, `jornada`, `costo`) VALUES ('Miercoles', '00:00:00', '11:59:59', 'Mañana', '20000');
+INSERT INTO `sist_reserva_db`.`costodiajornada` (`dia`, `hora_inicio_jornada`, `hora_fin_jornada`, `jornada`, `costo`) VALUES ('Miercoles', '12:00:00', '23:59:59', 'Tarde', '10000');
+INSERT INTO `sist_reserva_db`.`costodiajornada` (`dia`, `hora_inicio_jornada`, `hora_fin_jornada`, `jornada`, `costo`) VALUES ('Jueves', '00:00:00', '11:59:59', 'Mañana', '20000');
+INSERT INTO `sist_reserva_db`.`costodiajornada` (`dia`, `hora_inicio_jornada`, `hora_fin_jornada`, `jornada`, `costo`) VALUES ('Jueves', '12:00:00', '23:59:59', 'Tarde', '10000');
+INSERT INTO `sist_reserva_db`.`costodiajornada` (`dia`, `hora_inicio_jornada`, `hora_fin_jornada`, `jornada`, `costo`) VALUES ('Viernes', '00:00:00', '11:59:59', 'Mañana', '20000');
+INSERT INTO `sist_reserva_db`.`costodiajornada` (`dia`, `hora_inicio_jornada`, `hora_fin_jornada`, `jornada`, `costo`) VALUES ('Viernes', '12:00:00', '23:59:59', 'Tarde', '10000');
+INSERT INTO `sist_reserva_db`.`costodiajornada` (`dia`, `hora_inicio_jornada`, `hora_fin_jornada`, `jornada`, `costo`) VALUES ('Sábado', '00:00:00', '11:59:59', 'Mañana', '40000');
+INSERT INTO `sist_reserva_db`.`costodiajornada` (`dia`, `hora_inicio_jornada`, `hora_fin_jornada`, `jornada`, `costo`) VALUES ('Sábado', '12:00:00', '23:59:59', 'Tarde', '30000');
+INSERT INTO `sist_reserva_db`.`costodiajornada` (`dia`, `hora_inicio_jornada`, `hora_fin_jornada`, `jornada`, `costo`) VALUES ('Domingo', '00:00:00', '11:59:59', 'Mañana', '40000');
+INSERT INTO `sist_reserva_db`.`costodiajornada` (`dia`, `hora_inicio_jornada`, `hora_fin_jornada`, `jornada`, `costo`) VALUES ('Domingo', '12:00:00', '23:59:59', 'Tarde', '30000');
