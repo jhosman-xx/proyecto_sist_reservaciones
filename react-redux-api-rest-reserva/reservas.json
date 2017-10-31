@@ -4,7 +4,7 @@
 	"nombre": "prueba",
 	"fechaNacimiento": "1997-01-27",
 	"estado": "Reservado",
-	"fechaTransac": 1509080400000,
+	"fechaTransac": "2017-10-27 00:00:00",
 	"vueloid": {
 		"id": 1,
 		"origen": "Medellín",
@@ -23,7 +23,7 @@
 	"nombre": "prueba",
 	"fechaNacimiento": "1997-01-27",
 	"estado": "Reservado",
-	"fechaTransac": 1509166800000,
+	"fechaTransac": "2017-10-28 00:00:00",
 	"vueloid": {
 		"id": 2,
 		"origen": "Medellín",
