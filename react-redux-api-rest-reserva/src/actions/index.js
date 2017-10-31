@@ -33,7 +33,7 @@ export function showVuelos() {
 }
 
 /**
- * url que provee los datos
+ * url que provee los datos para poblar la tabla
  */
 function urlFunction() {
     //return 'http://localhost:8090/ws/vuelos';
